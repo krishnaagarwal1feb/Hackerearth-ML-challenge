@@ -1,4 +1,4 @@
-# Hackerearth-ML-challenge-
+# Hackerearth-ML-challenge
 Predict the severity of airplane crash 
 
 # Airplane-Accident-Severity-Hacker-Earth-Challenge-2020
